@@ -52,6 +52,23 @@ body {
     z-index: auto;
 }
 
+div.sosyalmedya {
+   display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div.sosyalmedyachild {
+	display: inline-block;
+}
+
+
+.pparent {
+	text-align: center
+	align-items: center
+	align-self: center
+}
+
 h1,
 h2,
 h3,
